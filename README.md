@@ -1,6 +1,6 @@
 #### 👋 Dong Heon Lee 
-     달리기를 좋아하는 아직은 개발자 지망생
-     현재 Half(21.196km) 개인 최고 기록은 01:54:24
+<!--      달리기를 좋아하는 아직은 개발자 지망생
+     현재 Half(21.196km) 개인 최고 기록은 01:54:24 -->
 <!--Skill Badge-->
 <!--<img src="https://img.shields.io/badge/HTML5-lightgrey?style=flat&logo=HTML5&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/CSS3-blueviolet?style=flat&logo=CSS3&logoColor=#1572B6"/><img src="https://img.shields.io/badge/JavaScript-critical?style=flat&logo=JavaScript&logoColor=#F7DF1E"/> 
 
