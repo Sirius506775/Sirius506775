@@ -1,12 +1,17 @@
 #### 👋 Dong Heon Lee 
-<!--      달리기를 좋아하는 아직은 개발자 지망생
-     현재 Half(21.196km) 개인 최고 기록은 01:54:24 -->
-<!--Skill Badge-->
-<!--<img src="https://img.shields.io/badge/HTML5-lightgrey?style=flat&logo=HTML5&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/CSS3-blueviolet?style=flat&logo=CSS3&logoColor=#1572B6"/><img src="https://img.shields.io/badge/JavaScript-critical?style=flat&logo=JavaScript&logoColor=#F7DF1E"/> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
+</a>
+   달리기를 좋아하는 아직은 개발자 지망생
+     현재 Half(21.196km) 개인 최고 기록은 01:54:24 
+Skill Badge
+<img src="https://img.shields.io/badge/HTML5-lightgrey?style=flat&logo=HTML5&logoColor=#E34F26"/> <img src="https://img.shields.io/badge/CSS3-blueviolet?style=flat&logo=CSS3&logoColor=#1572B6"/><img src="https://img.shields.io/badge/JavaScript-critical?style=flat&logo=JavaScript&logoColor=#F7DF1E"/> 
 
 
 
-<!--
+
 **Sirius506775/Sirius506775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,7 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 #### Popular Projects
 <a href="https://github.com/MrBlueBird2/to-do-list-flask">
@@ -33,18 +38,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
 </a>
 
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
-
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
-</a>
+
 <br />
 <br />
 <p align="center">
