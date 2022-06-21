@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
 </a>
 
-<p align="center">
+<p align="right">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
 </p>
 
