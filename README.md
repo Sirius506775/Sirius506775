@@ -6,7 +6,7 @@
 ---
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Sirius506775&show_icons=true&theme=tokyonight)
 
-   <a href="https://github.com/7oSkaaa"><img alt="Dongheon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sirius506775&custom_title=Dongheon's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Sirius506775"><img alt="Dongheon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sirius506775&custom_title=Dongheon's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
 ---
