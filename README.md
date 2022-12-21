@@ -1,4 +1,4 @@
-
+<!-- 
   <div align="left">
     <h3>:mag_right: Interested in..</h3>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
-  
+   -->
 <br>
       <img src="https://github-readme-stats.vercel.app/api?username=Sirius506775&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" align="left"/>
 
