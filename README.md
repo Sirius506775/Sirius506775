@@ -14,4 +14,5 @@
   </a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/tyrano00?theme=nord&font=ABeeZee&ext=activity)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/tyrano00?theme=nord&font=ABeeZee&ext=activity)
+ -->
