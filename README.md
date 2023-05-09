@@ -14,7 +14,7 @@
 <!-- <p align="left">
   <a href="https://github.com/Sirius506775">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sirius506775&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<!--      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sirius506775&layout=compact&langs_count=8&theme=chartreuse-dark"/> -->
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sirius506775&layout=compact&langs_count=8&theme=chartreuse-dark"/> 
   </a>
 </p> -->
 
