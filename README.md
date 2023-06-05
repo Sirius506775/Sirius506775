@@ -22,8 +22,8 @@
 <!--     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> -->
 </div>
 <br/>
- <span><img width='420' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sirius506775&show_icons=true&include_all_commits=true&count_private=true"/>  </span>
- <span><img width='420' src="https://github-readme-streak-stats.herokuapp.com/?user=sirius506775" /> 
+ <span><img width='400' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sirius506775&show_icons=true&include_all_commits=true&count_private=true"/>  </span>
+ <span><img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=sirius506775" /> 
  </span>
 <span><img width='600' src="https://github-profile-trophy.vercel.app/?username=sirius506775" /></span>
 
