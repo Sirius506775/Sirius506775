@@ -2,9 +2,9 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Sirius506775&&style=flat-square" align="right" />
-</div> 
+</div>  -->
 
 <!-- <img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirius506775" />-->
  
