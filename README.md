@@ -1,6 +1,6 @@
-<div align="right">
+<!-- <div align="right">
 <img src="https://komarev.com/ghpvc/?username=Sirius506775&&style=flat-square" align="right" />
-</div>  
+</div> -->
 
  ### 👩‍💻 I'm interested in..
 <div align="left">
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <div>
+     <img src=" https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -26,7 +27,7 @@
 
 <p align="left">
   <a href="https://github.com/Sirius506775">
-    <img width='400' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sirius506775&show_icons=true&include_all_commits=true&count_private=true"/>
+<!--     <img width='400' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sirius506775&show_icons=true&include_all_commits=true&count_private=true"/> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius506775"/>
    </a>
 </p> 
