@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Sirius506775&&style=flat-square" align="right" />
 </div> -->
 
- ### 👩‍💻 I'm interested in..
+<!--  ### 👩‍💻 I'm interested in..
 <div align="left">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
@@ -22,7 +22,7 @@
 <div>
       <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
       <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
-</div>
+</div>  -->
 <br/>
 
 <p align="left">
