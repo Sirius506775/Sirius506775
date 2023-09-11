@@ -52,9 +52,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/leeheon.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeheon.dev@gmail.com)](mailto:leeheon.dev@gmail.com)
 
-
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/Sirius506775">
 <!--     <img width='400' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sirius506775&show_icons=true&include_all_commits=true&count_private=true"/> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius506775"/>
@@ -63,13 +61,14 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-<!-- 
-<div>
 ### :writing_hand: Lastest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</div>
 
+
+
+<!--
 <p align="center">
 <img width='600' src="https://github-profile-trophy.vercel.app/?username=sirius506775" />
 </p> 
+-->
