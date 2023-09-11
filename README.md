@@ -58,6 +58,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :writing_hand: Lastest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [.dev 도메인 유저가 되었습니다](https://imsirius.dev/posts/230911/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%84-%EA%B5%AC%EB%A7%A4%ED%96%88%EB%8B%A4/)
+- [Hugo로 다시 돌아온 나란 놈이란](https://imsirius.dev/posts/230910/behave-yourself/)
 <!-- BLOG-POST-LIST:END -->
 
 
