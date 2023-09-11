@@ -13,7 +13,7 @@
   <a href="https://instagram.com/__runner_miel">
     <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=mailto:sirius5076775@gmail.com)"/>
   </a>
-  <a href="(https://velog.io/@sirius506775">
+  <a href="https://velog.io/@sirius506775">
     <img src="https://img.shields.io/badge/Velog-sirius506775-Brightgreen?style=flat-square&logo=Velog" alt="Velog Badge"/>
   </a>
 </div>
