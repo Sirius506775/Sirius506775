@@ -25,6 +25,15 @@
 </div>  -->
 <br/>
 
+
+[![Git Badge](https://img.shields.io/badge/GIT-E44C30.svg?style=flat-square&logo=git&logoColor=white)]()
+[![Obsidian Badge](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white)]()
+[![Linux Badge](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)]()
+[![java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)]()
+[![dart Badge](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)]()
+[![spring boot Badge](https://img.shields.io/badge/springboot-F2F4F9.svg?style=flat-square&logo=springboot)]()
+[![spring boot Badge](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter)]()
+
 <p align="left">
   <a href="https://github.com/Sirius506775">
 <!--     <img width='400' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sirius506775&show_icons=true&include_all_commits=true&count_private=true"/> -->
@@ -32,9 +41,12 @@
    </a>
 </p> 
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FF4088?style=flat-square&logo=hugo&logoColor=white&link=https://sirius506775.github.io/)](https://sirius506775.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/leeheon.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeheon.dev@gmail.com)](mailto:leeheon.dev@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-sirius506775-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@sirius506775)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=mailto:sirius5076775@gmail.com)](https://instagram.com/__runner_miel)
 
-
-
+ 
 
   <!-- <span><img width='600' src="https://github-profile-trophy.vercel.app/?username=sirius506775" /></span>
  -->
