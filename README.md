@@ -1,38 +1,61 @@
-<!-- <div align="right">
-<img src="https://komarev.com/ghpvc/?username=Sirius506775&&style=flat-square" align="right" />
-</div> -->
-
-<!--  ### 👩‍💻 I'm interested in..
-<div align="left">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-</div>
-<div>
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-<div>
-     <img src=" https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-     <img src="https://img.shields.io/badge/NAVER CLOUD-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF">
-</div>
-<div>
-      <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-      <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
-</div>  -->
-<br/>
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FF4088?style=flat-square&logo=hugo&logoColor=white&link=https://sirius506775.github.io/)](https://sirius506775.github.io/)
+[![Velog Badge](https://img.shields.io/badge/Velog-sirius506775-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@sirius506775)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=mailto:sirius5076775@gmail.com)](https://instagram.com/__runner_miel) -->
 
 
-[![Git Badge](https://img.shields.io/badge/GIT-E44C30.svg?style=flat-square&logo=git&logoColor=white)]()
-[![Obsidian Badge](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white)]()
-[![Linux Badge](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)]()
-[![java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)]()
-[![dart Badge](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)]()
-[![spring boot Badge](https://img.shields.io/badge/springboot-F2F4F9.svg?style=flat-square&logo=springboot)]()
-[![spring boot Badge](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter)]()
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    
+<div id="badges">
+  <a href="https://sirius506775.github.io/">
+    <img src="http://img.shields.io/badge/-Tech%20blog-FF4088?style=flat-square&logo=hugo&logoColor=white&link=https://sirius506775.github.io/" alt="Tech Blog Badge"/>
+  </a>
+  <a href="https://instagram.com/__runner_miel">
+    <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=mailto:sirius5076775@gmail.com)"/>
+  </a>
+  <a href="(https://velog.io/@sirius506775">
+    <img src="https://img.shields.io/badge/Velog-sirius506775-Brightgreen?style=flat-square&logo=Velog" alt="Velog Badge"/>
+  </a>
+</div>
+    <img src="https://komarev.com/ghpvc/?username=Sirius506775&&style=flat-square&color=blue" alt="" />
+</div>
+
+</div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+<div align="center">
+ <img src="https://img.shields.io/badge/GIT-E44C30.svg?style=flat-square&logo=git&logoColor=white"/>
+ <img src="(https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
+ <img src="https://img.shields.io/badge/springboot-F2F4F9.svg?style=flat-square&logo=springboot"/>
+ <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter"/>
+</div>
+
+### :woman_technologist: About Me :
+
+
+
+
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Korea.
+
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/leeheon.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeheon.dev@gmail.com)](mailto:leeheon.dev@gmail.com)
+
+
 
 <p align="left">
   <a href="https://github.com/Sirius506775">
@@ -41,56 +64,13 @@
    </a>
 </p> 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FF4088?style=flat-square&logo=hugo&logoColor=white&link=https://sirius506775.github.io/)](https://sirius506775.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/leeheon.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeheon.dev@gmail.com)](mailto:leeheon.dev@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/Velog-sirius506775-Brightgreen?style=flat-square&logo=Velog)](https://velog.io/@sirius506775)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=mailto:sirius5076775@gmail.com)](https://instagram.com/__runner_miel)
+---
 
- 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
   <!-- <span><img width='600' src="https://github-profile-trophy.vercel.app/?username=sirius506775" /></span>
  -->
 
-
-<!-- ### 📋 Languages
-<div align="left">
-   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</div> 
-
-### 📚 Frameworks, Platforms and Libraries
-<div align="left">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div> 
-
-### 💻 IDEs/Editors
-<div align="left">
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
-</div>
-
-### 💾 Databases
-<div align="left">
-   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-</div>
-
-### ☁️ Hosting/SaaS
-<div align="left">
-   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-   <img src="https://img.shields.io/badge/NAVER CLOUD-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF">
-</div> -->
