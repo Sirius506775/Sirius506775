@@ -1,14 +1,17 @@
-name: Latest blog post workflow
+name: Latest Blog Posts
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
 jobs:
-  update-readme-with-blog:
+  update-readme-with-blog-posts:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 4
-          feed_list: "https://velog.io/@sirius506775/rss.xml"
+          feed_list: "https://velog.io/@sirius506775"
