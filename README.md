@@ -54,9 +54,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
    </a>
 </p> 
 
-
-### :writing_hand: Lastest Blog Posts :
 <div>
+### :writing_hand: Lastest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Ubuntu 22.04 Server MariaDB 설치 및 환경설정](https://imsirius.dev/posts/230823/ubuntu-22.04-server-mariadb-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/)
 - [Raspberry Pi에 Ubuntu 설치하기](https://imsirius.dev/posts/230701/raspberry-pi%EC%97%90-ubuntu-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
