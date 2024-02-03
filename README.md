@@ -21,8 +21,9 @@
  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
  <img src="https://img.shields.io/badge/springboot-F2F4F9.svg?style=flat-square&logo=springboot"/> <br>
 
- <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
- <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter"/>
+ <!--    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter"/>
+-->
 </div>
 
 <p align="center">
