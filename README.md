@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     
 <div id="badges">
-  <a href="https://sirius506775.github.io/">
+  <a href="https://velog.io/@sirius506775/posts">
     <img src="http://img.shields.io/badge/-Tech%20blog-FF4088?style=flat-square&logo=hugo&logoColor=white&link=https://sirius506775.github.io/" alt="Tech Blog Badge"/>
   </a>
   <a href="https://instagram.com/__runner_miel">
