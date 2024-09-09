@@ -13,16 +13,12 @@
 </div>
 
 </div>
-
 <div align="center">
- <img src="https://img.shields.io/badge/GIT-E44C30.svg?style=flat-square&logo=git&logoColor=white"/>
- <img src="(https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white"/>
- <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black"/>
- <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
- <img src="https://img.shields.io/badge/springboot-F2F4F9.svg?style=flat-square&logo=springboot"/> <br>
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter"/>
-
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+ <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+ <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <br>
 </div>
 
 <!-- <p align="center">
